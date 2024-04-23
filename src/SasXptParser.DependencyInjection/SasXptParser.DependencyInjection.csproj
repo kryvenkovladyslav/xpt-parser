@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SasXptParser.Abstract\SasXptParser.Abstract.csproj" />
+    <ProjectReference Include="..\SasXptParser\SasXptParser.csproj" />
+  </ItemGroup>
+
+</Project>
